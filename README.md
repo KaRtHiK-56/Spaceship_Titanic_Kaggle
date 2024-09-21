@@ -1,1 +1,1 @@
-# Spaceship_Titanic_Kaggle
+# Spaceship_Titanic_Kaggle_Challenge
